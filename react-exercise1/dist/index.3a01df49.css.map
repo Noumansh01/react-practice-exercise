@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["style.css"],"sourcesContent":[".container{\r\n  width: 70%;\r\n  margin: auto;\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: center;\r\n}"],"names":[],"version":3,"file":"index.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -10,9 +10,9 @@ const App = ()=>{
     if(rightApple<=0){
       setrightApple(0);
     }else{
+      console.log(leftApple);
       setrightApple(rightApple-1);
       setleftApple(leftApple+1);
-      console.log(leftApple);
     }
     
 }
@@ -20,10 +20,10 @@ const handleClick2 =()=>{
 if(leftApple<=0){
   setleftApple(0);
 }else{
+  console.log(rightApple);
   setrightApple(rightApple+1);
       setleftApple(leftApple-1);
  
-      console.log(rightApple);
 }
 
 }

@@ -1,8 +1,8 @@
-4303
+4307
 146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@lmdb\lmdb-win32-x64\README.md133773277756228784 0
 147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\profiler\lib\index.d.ts133773277772345691 0
 120C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\package-lock.json133773298690203412 0
-109C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\App.js133773332532502678 0
+109C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\App.js133773345858497882 0
 131C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\.bin\semver.ps1133773278642780991 0
 124C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\argparse133773277766596105 1
 159C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\entities\lib\esm\generated\encode-html.d.ts133773277787235868 0
@@ -20,7 +20,7 @@
 112C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\component133773311419624237 1
 160C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\css-gencontent.js133773277797159342 0
 161C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133773277827800905 0
-107C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist133773322321996277 1
+107C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist133773345865279543 1
 135C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\parse-json\index.js133773277755181566 0
 150C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\packager-js\src\helpers.js133773277771325970 0
 162C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133773277777990590 0
@@ -29,7 +29,7 @@
 133C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\commander\LICENSE133773277754166039 0
 142C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lightningcss\node\flags.js133773277768904885 0
 148C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@swc\helpers\esm\_await_value.js133773277791823600 0
-113C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\index.html133773295846543359 0
+113C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\index.html133773340833738336 0
 143C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@swc\helpers\_\_ts_decorate133773277811231710 1
 136C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\electron-to-chromium133773277772335709 1
 147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\regions\SO.js133773277825274168 0
@@ -62,7 +62,7 @@
 122C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\dotenv133773277768246645 1
 151C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\src\getCertificate.js133773277777162811 0
 157C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\scheduler\umd\scheduler.production.min.js133773292059484337 0
-112C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\style.css133773300376603994 0
+112C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\style.css133773341633750101 0
 172C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@swc\helpers\esm\_create_for_of_iterator_helper_loose.js133773277794969136 0
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\update-browserslist-db\index.d.ts133773277764647293 0
 141C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\msgpackr\dist\test.js.map133773277786198652 0
@@ -838,6 +838,7 @@
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\postcss-value-parser\package.json133773277763708789 0
 154C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\transformer-babel\src\utils.js133773277775168125 0
 138C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\supports-color\license133773277753938098 0
+155C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\assets\images\images-of-arrows-pointing-right-20.png133773345567384948 0
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\src\public\Bundle.js133773277782967277 0
 128C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\domutils\lib133773277787335602 1
 143C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\supports-color\package.json133773277758283790 0
@@ -999,6 +1000,7 @@
 133C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\scheduler\LICENSE133773292059005613 0
 138C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\scheduler\package.json133773292059623988 0
 174C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities133773277772375607 1
+130C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3a01df49.css.map133773345863843395 0
 139C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\workers\lib\web133773277784206436 1
 189C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js133773277763294337 0
 165C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133773277760477900 0
@@ -1285,7 +1287,7 @@
 162C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\posthtml\node_modules\htmlparser2\lib\index.js133773277757465537 0
 147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\regions\NU.js133773277823887877 0
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133773277794307976 0
-147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\test\input\config133773277757804565 1
+147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\test\input\config133773277792811198 1
 138C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@lezer\lr\package.json133773277765126014 0
 151C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\htmlparser2\lib\WritableStream.d.ts133773277782299065 0
 172C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133773277769224027 0
@@ -1790,7 +1792,7 @@
 134C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dict\dict.txt133773277796853841 0
 148C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\transformer-posthtml\src133773277760806549 1
 137C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\js-yaml\lib\dumper.js133773277765635629 0
-146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\lmdb-data-v1133773277753685578 1
+146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\lmdb-data-v1133773277754054581 1
 160C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133773277794915342 0
 140C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\js-yaml\lib\exception.js133773277766971839 0
 132C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\.bin\js-yaml.ps1133773278642770999 0
@@ -1815,7 +1817,7 @@
 139C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\color-name\package.json133773277753945074 0
 168C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133773277768257144 0
 150C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133773277795065677 0
-125C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3d214d75.js133773322321697082 0
+125C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3d214d75.js133773345864940451 0
 147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\regions\HR.js133773277814126673 0
 141C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\reporter-cli\test133773277768007309 1
 156C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133773277754224131 1
@@ -2930,7 +2932,7 @@
 148C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\transformer-json\LICENSE133773277754134370 0
 160C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\es6-generators.js133773277809685870 0
 156C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\es6-number.js133773277809835464 0
-116C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\assets\images133773327299138175 1
+116C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\assets\images133773345566247988 1
 129C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\cache133773277772146227 1
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\es6.js133773277809915238 0
 167C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\extended-system-fonts.js133773277809985673 0
@@ -2976,7 +2978,6 @@
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\sni.js133773277825264195 0
 153C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\history.js133773277814052065 0
 145C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\transformer-image\src133773277763838429 1
-142C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\assets\images\left-arrow.png.crdownload133771674882421791 0
 164C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\html-media-capture.js133773277814163885 0
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\sxg.js133773277826383101 0
 165C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\caniuse-lite\data\features\http-live-streaming.js133773277814323453 0
@@ -3814,7 +3815,7 @@
 146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\src\TapStream.js133773277788732350 0
 145C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\src\throttle.js133773277788811654 0
 144C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\utils\src\urlJoin.js133773277789150752 0
-146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\types-internal\scripts133773277755346817 1
+146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\types-internal\scripts133773277772585068 1
 142C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\types-internal\src133773277771549097 1
 165C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\types-internal\src\DependencySpecifier.js133773277760048596 0
 168C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\types-internal\src\FileCreateInvalidation.js133773277761345632 0
@@ -3947,7 +3948,7 @@
 138C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\lib133773277781440636 1
 142C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\LICENSE133773277756129068 0
 138C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src133773277781861698 1
-146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src\helpers133773277753785313 1
+146C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src\helpers133773277784456436 1
 150C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\src\Transformation.js133773277797169488 0
 151C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src\JSRuntime.js133773277781932893 0
 155C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\runtime-js\src\helpers\.babelrc133773277754593157 0
@@ -4126,7 +4127,7 @@
 162C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\application-targets133773277798775865 1
 157C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\common-targets133773277798846945 1
 149C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\config133773277769533212 1
-167C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\config-extends-not-found133773277754623066 1
+167C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\config-extends-not-found133773277773213374 1
 159C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\config-malformed133773277758145331 1
 163C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\config-node-pipeline133773277761935865 1
 150C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\@parcel\core\test\fixtures\context133773277798904679 1
@@ -4299,6 +4300,9 @@
 127C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\.bin\semver133773278642780991 0
 143C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\.bin\update-browserslist-db133773278642790954 0
 147C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\node_modules\.bin\update-browserslist-db.ps1133773278642790954 0
-129C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3d214d75.js.map133773322321906507 0
-118C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.html133773322321687112 0
+155C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\images-of-arrows-pointing-right-20.3af70c9b.png133773345863833416 0
+126C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3a01df49.css133773345863783550 0
+129C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.3d214d75.js.map133773345865100028 0
+118C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\index.html133773345865279543 0
+142C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\dist\Right-Arrow-PNG-Image.c457c440.png133773345863823447 0
 123C:\Users\NOUMAN Sh\Documents\Nouman\web_development\ASE-Intern-projects\react-practice\react-exercise1\component\Basket.jsx133773320441902385 0

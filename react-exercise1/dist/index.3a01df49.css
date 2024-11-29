@@ -1,8 +1,20 @@
 .container {
-  justify-content: center;
+  background-color: #b8860b;
+  border: 1px solid #000;
+  justify-content: space-evenly;
   align-items: center;
-  width: 70%;
+  width: 70vw;
   margin: auto;
   display: flex;
+}
+
+img {
+  width: 50px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #fff;
+  width: 80px;
 }
 /*# sourceMappingURL=index.3a01df49.css.map */

@@ -1,8 +1,8 @@
 
 export const Button= (props)=>{
-  const {imagesrc}= props;
+  const {imagesrc, handleClick}= props;
 return(
-  <button>
+  <button onClick={handleClick}>
     <img src={imagesrc} alt="image" />
   </button>
 )

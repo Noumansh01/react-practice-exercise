@@ -27217,44 +27217,74 @@ parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _basket = require("./component/basket");
 var _button = require("./component/button");
+var _react = require("react");
 var _rightArrowPNGImagePng = require("./assets/images/Right-Arrow-PNG-Image.png");
 var _rightArrowPNGImagePngDefault = parcelHelpers.interopDefault(_rightArrowPNGImagePng);
+var _imagesOfArrowsPointingRight20Png = require("./assets/images/images-of-arrows-pointing-right-20.png");
+var _imagesOfArrowsPointingRight20PngDefault = parcelHelpers.interopDefault(_imagesOfArrowsPointingRight20Png);
+var _s = $RefreshSig$();
 const App = ()=>{
-    let left_apples = 10;
-    let right_apples = 0;
+    _s();
+    let [leftApple, setleftApple] = (0, _react.useState)(10);
+    let [rightApple, setrightApple] = (0, _react.useState)(0);
+    const handleClick1 = ()=>{
+        if (rightApple <= 0) setrightApple(0);
+        else {
+            setrightApple(rightApple--);
+            setleftApple(leftApple++);
+        }
+        console.log(leftApple);
+    };
+    const handleClick2 = ()=>{
+        if (leftApple <= 0) setleftApple(0);
+        else {
+            setrightApple(rightApple++);
+            setleftApple(leftApple--);
+        }
+    };
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "container",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _basket.Basket), {
-                applevalue: left_apples,
+                applevalue: leftApple,
                 basketName: "Basket 1"
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 9,
+                lineNumber: 31,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
-                imagesrc: (0, _rightArrowPNGImagePngDefault.default)
+                imagesrc: (0, _imagesOfArrowsPointingRight20PngDefault.default),
+                handleClick: handleClick1
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 11,
+                lineNumber: 32,
+                columnNumber: 13
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
+                imagesrc: (0, _rightArrowPNGImagePngDefault.default),
+                handleClick: handleClick2
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 33,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _basket.Basket), {
-                applevalue: right_apples,
+                applevalue: rightApple,
                 basketName: "Basket 2"
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 12,
+                lineNumber: 34,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.js",
-        lineNumber: 8,
+        lineNumber: 30,
         columnNumber: 6
     }, undefined);
 };
+_s(App, "nbZgoc/3+Y6CPza8WrQ3ECByDC4=");
 _c = App;
 exports.default = App;
 var _c;
@@ -27265,7 +27295,7 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./component/button":"1nVgP","./component/basket":"1B9UR","./assets/images/Right-Arrow-PNG-Image.png":"9GzBp"}],"gkKU3":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./component/button":"1nVgP","./component/basket":"1B9UR","./assets/images/Right-Arrow-PNG-Image.png":"9GzBp","./assets/images/images-of-arrows-pointing-right-20.png":"iiuLE","react":"21dqq"}],"gkKU3":[function(require,module,exports,__globalThis) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -27452,8 +27482,9 @@ parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Button", ()=>Button);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 const Button = (props)=>{
-    const { imagesrc } = props;
+    const { imagesrc, handleClick } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+        onClick: handleClick,
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
             src: imagesrc,
             alt: "image"
@@ -27570,6 +27601,9 @@ exports.getBundleURL = getBundleURLCached;
 exports.getBaseURL = getBaseURL;
 exports.getOrigin = getOrigin;
 
-},{}]},["aQL8O","dIizP","bB7Pu"], "bB7Pu", "parcelRequire94c2")
+},{}],"iiuLE":[function(require,module,exports,__globalThis) {
+module.exports = require("7ed1a50b87c308a2").getBundleURL('UckoE') + "images-of-arrows-pointing-right-20.3af70c9b.png" + "?" + Date.now();
+
+},{"7ed1a50b87c308a2":"lgJ39"}]},["aQL8O","dIizP","bB7Pu"], "bB7Pu", "parcelRequire94c2")
 
 //# sourceMappingURL=index.3d214d75.js.map

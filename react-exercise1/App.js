@@ -10,21 +10,21 @@ const App = ()=>{
     if(rightApple<=0){
       setrightApple(0);
     }else{
-      setrightApple(rightApple--);
-      setleftApple(leftApple++);
+      setrightApple(rightApple-1);
+      setleftApple(leftApple+1);
+      console.log(leftApple);
     }
-    console.log(leftApple);
     
 }
 const handleClick2 =()=>{
 if(leftApple<=0){
   setleftApple(0);
 }else{
-  setrightApple(rightApple++);
-      setleftApple(leftApple--);
+  setrightApple(rightApple+1);
+      setleftApple(leftApple-1);
  
+      console.log(rightApple);
 }
-console.log(rightApple);
 
 }
 

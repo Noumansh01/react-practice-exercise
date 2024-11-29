@@ -27241,6 +27241,7 @@ const App = ()=>{
             setrightApple(rightApple++);
             setleftApple(leftApple--);
         }
+        console.log(rightApple);
     };
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "container",
@@ -27250,7 +27251,7 @@ const App = ()=>{
                 basketName: "Basket 1"
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 31,
+                lineNumber: 33,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -27258,7 +27259,7 @@ const App = ()=>{
                 handleClick: handleClick1
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 32,
+                lineNumber: 34,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -27266,7 +27267,7 @@ const App = ()=>{
                 handleClick: handleClick2
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 33,
+                lineNumber: 35,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _basket.Basket), {
@@ -27274,13 +27275,13 @@ const App = ()=>{
                 basketName: "Basket 2"
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 34,
+                lineNumber: 36,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.js",
-        lineNumber: 30,
+        lineNumber: 32,
         columnNumber: 6
     }, undefined);
 };

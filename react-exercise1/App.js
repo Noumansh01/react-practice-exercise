@@ -14,6 +14,7 @@ const App = ()=>{
       setleftApple(leftApple++);
     }
     console.log(leftApple);
+    
 }
 const handleClick2 =()=>{
 if(leftApple<=0){
@@ -23,6 +24,7 @@ if(leftApple<=0){
       setleftApple(leftApple--);
  
 }
+console.log(rightApple);
 
 }
 
